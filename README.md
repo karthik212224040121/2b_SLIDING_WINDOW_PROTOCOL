@@ -8,6 +8,7 @@ To write a python program to perform sliding window protocol
 4. To send frames to server from the client side.
 5. If your frames reach the server it will send ACK signal to client
 6. Stop the Program
+7. 
 ## PROGRAM
 ### server:
 ```python
